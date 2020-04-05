@@ -1,5 +1,5 @@
 # Kaggle
-My experiments in machine learning, based of Kaggle.
+My experiments in machine learning, based off the courses at Kaggle.
 
 Completed courses:
 * Intro to Machine Learning
